@@ -1,0 +1,120 @@
+.section2 {
+    height: 100vh;
+}
+
+
+.section{
+    display: flex;
+    height: 100%;
+}
+.left {
+    background: rgb(0, 0, 0);
+    width: 20%;
+}
+.hr-dad {
+    display: flex;
+    justify-content: center;
+}
+.searcher {
+    display: flex;
+    height: 30px;
+    padding-right: 14px;
+}
+input {
+    width: 90%;
+    height: 37px;
+    background-color:rgb(46, 46, 46);
+    border: none;
+    border-radius: 7px;
+}
+
+input::placeholder {
+    text-align: center;
+  }
+.hr1 {
+    height: 1px;
+    border: 50%;
+    background-color: #ffffff;  
+    width: 90%; 
+    border: none;
+    margin-bottom: 9px;
+ }
+ .hr2 {
+    height: 1px;
+    background-color: #ffffff;  
+    width: 98%; 
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    
+    margin-top: 19px;
+ }
+.fa-solid {
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-top: 3px;
+    font-size: 33px;
+    color: rgb(122, 122, 122);
+
+}
+.button-dad {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+button {
+    width: 90%;
+}
+
+.logo {
+    width: 170px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.right {
+    background: rgb(46, 46, 46);
+    width: 80%;
+}
+.titulo {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 500px;
+}
+
+img{
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(1, 1, 1, 1); /* Agrega una sombra suave */
+
+}
+
+.button-right{
+    border: none;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding-bottom: 2px;
+}
+
+.titulesong{
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+    ;
+}
+
+.boxArtist {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 160vh;
+    display: flex;
+    
+}
+
+a{
+    margin-left: 
+}
